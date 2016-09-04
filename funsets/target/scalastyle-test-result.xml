@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+ <file name="/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala">
+  <error line="1" source="org.scalastyle.file.HeaderMatchesChecker" severity="warning" message="Header does not match expected text"/>
+  <error column="31" line="54" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="21" line="82" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="23" line="82" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="26" line="124" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="26" line="138" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="26" line="139" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="26" line="141" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="25" line="151" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="25" line="152" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="26" line="157" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="26" line="171" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="26" line="178" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="25" line="179" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="26" line="181" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="26" line="234" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="26" line="235" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="27" line="241" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="27" line="242" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="27" line="243" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="26" line="249" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="26" line="250" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="26" line="251" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="27" line="255" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="27" line="256" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="27" line="257" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="27" line="258" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+ </file>
+</checkstyle>

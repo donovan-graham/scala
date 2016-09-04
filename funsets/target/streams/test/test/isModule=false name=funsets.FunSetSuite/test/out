@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) only contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(2) only contains 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(3) only contains 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff contains all elements not in each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff check 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff check 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter subset of `s` for which `p` holds.[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall bounded integers within `s` satisfy `p`[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists whether there is bounded integer within `s` satisfy `p`[0m[0m
+[0m[[0minfo[0m] [0m[32m- map returns a set transformed by applying `f` to each element of `s`[0m[0m

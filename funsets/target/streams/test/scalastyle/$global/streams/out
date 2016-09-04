@@ -1,0 +1,37 @@
+[0m[[0minfo[0m] [0mscalastyle using config /Users/admin/Sites/coursera/funsets/scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file /Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:54:31: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:82:21: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:82:23: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:124:26: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:138:26: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:139:26: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:141:26: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:151:25: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:152:25: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:157:26: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:171:26: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:178:26: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:179:25: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:181:26: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:234:26: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:235:26: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:241:27: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:242:27: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:243:27: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:249:26: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:250:26: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:251:26: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:255:27: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:256:27: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:257:27: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala:258:27: Magic Number[0m
+[0m[[0mdebug[0m] [0mend file /Users/admin/Sites/coursera/funsets/src/test/scala/funsets/FunSetSuite.scala[0m
+[0m[[0minfo[0m] [0mProcessed 1 file(s)[0m
+[0m[[0minfo[0m] [0mFound 0 errors[0m
+[0m[[0minfo[0m] [0mFound 27 warnings[0m
+[0m[[0minfo[0m] [0mFound 0 infos[0m
+[0m[[0minfo[0m] [0mFinished in 3 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: /Users/admin/Sites/coursera/funsets/target[0m

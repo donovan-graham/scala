@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0mscalastyle using config /Users/admin/Sites/coursera/funsets/scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file /Users/admin/Sites/coursera/funsets/src/main/scala/common/package.scala[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/main/scala/common/package.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/main/scala/common/package.scala:36:4: If block needs braces[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/main/scala/common/package.scala:24:6: Public method must have explicit type[0m
+[0m[[0mdebug[0m] [0mend file /Users/admin/Sites/coursera/funsets/src/main/scala/common/package.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/admin/Sites/coursera/funsets/src/main/scala/funsets/FunSets.scala[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/main/scala/funsets/FunSets.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/main/scala/funsets/FunSets.scala:101:4: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/main/scala/funsets/FunSets.scala:68:8: If block needs braces[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/main/scala/funsets/FunSets.scala:69:13: If block needs braces[0m
+[0m[[0mdebug[0m] [0mend file /Users/admin/Sites/coursera/funsets/src/main/scala/funsets/FunSets.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/admin/Sites/coursera/funsets/src/main/scala/funsets/Main.scala[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/main/scala/funsets/Main.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0m/Users/admin/Sites/coursera/funsets/src/main/scala/funsets/Main.scala:5:2: Regular expression matched 'println'[0m
+[0m[[0mdebug[0m] [0mend file /Users/admin/Sites/coursera/funsets/src/main/scala/funsets/Main.scala[0m
+[0m[[0minfo[0m] [0mProcessed 3 file(s)[0m
+[0m[[0minfo[0m] [0mFound 0 errors[0m
+[0m[[0minfo[0m] [0mFound 9 warnings[0m
+[0m[[0minfo[0m] [0mFound 0 infos[0m
+[0m[[0minfo[0m] [0mFinished in 6 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: /Users/admin/Sites/coursera/funsets/target[0m
